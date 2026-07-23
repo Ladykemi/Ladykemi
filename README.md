@@ -27,7 +27,7 @@ I turn messy, manual processes into documented, measurable systems — mapping w
 Based in the UK, originally from Ibadan, Nigeria, with earlier experience in South Africa. I've worked across technical support, ITSM, and business analysis roles, and I'm currently focused on business systems and operations analyst opportunities.
 
 
-📫 Let's connect  [LinkedIn](https://www.linkedin.com/in/grace-adebowale/)
+### 📫 Let's connect  [LinkedIn](https://www.linkedin.com/in/grace-adebowale/)
 
 [Adebowale_CV_BusinessSystemsConsultant.pdf](https://github.com/user-attachments/files/30288245/Adebowale_CV_BusinessSystemsConsultant.pdf)
 
